@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8ADB4CBC-5B11-4C19-B8C4-65C59577CC7C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC6A97BC-0E75-4042-A0AE-B9A252D2DB4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0606CEE1-F83E-4842-AFCA-7775E0B86CE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MovieGridViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MovieGridViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5 - 4cd5d8e05907f0c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MovieGridViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix.MovieGridViewController"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/flix-main/flix/MovieGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5 - 28324752ea9df5a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MovieGridViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; flix.MovieGridViewController"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/flix-main/flix/MovieGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5 - 78decccb852a170f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MovieGridViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix.MovieGridViewController&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/flix-main/flix/MovieGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5 - d2ae35ac93d1d9aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MovieGridViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flix.MovieGridViewController&gt;"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/flix-main/flix/MovieGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "605E7505-120F-46AD-B6D4-7C16264D93B5 - 72522477ad72fdb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flix.MovieGridViewController.__deallocating_deinit"
+                  moduleName = "flix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/flix-main/flix/MovieGridViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EB02DB9-D6A9-4FB9-8F72-F2F354D0ADE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flix/MovieGridViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
